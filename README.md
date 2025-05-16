@@ -27,7 +27,7 @@
 - MS Excel, Google Sheets (cводные таблицы, ВПР, инструменты визуализации)
 
 С новыми навыками в активном поиске работы аналитика данных в ФинТех.
-### Контакты:
+#### Контакты:
 
 [Telegram](https://t.me/AlexandraBaburchenkova), e-mail: nphn-w7unxhzw@ya.ru
 
